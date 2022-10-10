@@ -17,3 +17,4 @@ ghci backtracking.hs
 ```
 
 ![a solution](/images/solution.jpg)
+
